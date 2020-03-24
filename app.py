@@ -29,7 +29,7 @@ import traceback
 torch.backends.cudnn.benchmark=True
 
 
-os.environ['CUDA_VISIBLE_DEVICES']='0'
+#os.environ['CUDA_VISIBLE_DEVICES']='0'
 
 app = Flask(__name__)
 
