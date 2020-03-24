@@ -1,2 +1,2 @@
-import OS
+import os
 os.environ['CUDA_VISIBLE_DEVICES']=''
